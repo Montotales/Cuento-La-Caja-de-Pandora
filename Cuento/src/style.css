@@ -1,0 +1,88 @@
+@import url("../media/Roboto/Roboto-Light.ttf");
+
+.parrafo1 {
+  color: rgb(18, 109, 62);
+  opacity: 100%;
+  font-size: 18px;
+  font-weight: 500;
+  font-family: "Roboto", sans-serif;
+  line-height: normal;
+  padding-top: 0%;
+  padding-left: 0%;
+  padding-bottom: 0%;
+  padding-right: 30%;
+  margin-top: 10%;
+  margin-left: 10%;
+  margin-bottom: 50px;
+  margin-right: 28%;
+  background-color: greenyellow;
+  position: relative;
+  left: 20px;
+  top: 0px;
+  right: 10px;
+  bottom: 0px;
+  display: block;
+}
+
+.parrafo2 {
+  color: rgb(239, 239, 25);
+  opacity: 100%;
+  font-size: 18px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  line-height: normal;
+  padding-top: 0%;
+  padding-left: 0%;
+  padding-bottom: 0%;
+  padding-right: 30%;
+  margin-top: 0%;
+  margin-left: 10%;
+  margin-bottom: 100px;
+  margin-right: 28%;
+  background-color: rgb(27, 30, 30);
+  position: relative;
+  left: 20px;
+  top: 0px;
+  right: 10px;
+  bottom: 0px;
+  display: block;
+}
+
+.titulo {
+  color: rgb(9, 11, 10);
+  opacity: 100%;
+  font-size: 18px;
+  font-family: 'Roboto', inherit;
+  font-weight: 800;
+  line-height: normal;
+  text-decoration: underline;
+  padding-top: 0%;
+  padding-left: 0%;
+  padding-bottom: 0%;
+  padding-right: 0%;
+  margin-top: 10%;
+  margin-left: 40%;
+  margin-bottom: 100px;
+  margin-right: 8%;
+  position: relative;
+  left: 20px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  display: block;
+}
+
+.image {
+  color: rgb(18, 109, 62);
+  margin-top: 0%;
+  margin-left: 15%;
+  margin-bottom: 100px;
+  margin-right: 8%;
+  width: 25px;
+  position: relative;
+  left: 450px;
+  top: -400px;
+  right: 50px;
+  bottom: 10px;
+  display: block;
+}
